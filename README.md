@@ -1,1 +1,2 @@
 # Breast-Cancer-Classification-and-Detection-Using-Deep-Learning
+This project uses Deep Learning with Convolutional Neural Networks (CNNs) to help identify breast cancer more accurately. CNNs analyze biopsy images to distinguish between cancerous and non-cancerous tumors. The model was trained on a large set of images and tested to measure its accuracy. The results show that CNNs can be very effective in detecting breast cancer, but more testing is needed to ensure they work well in real-world medical settings.
