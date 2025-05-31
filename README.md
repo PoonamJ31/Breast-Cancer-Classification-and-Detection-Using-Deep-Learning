@@ -41,6 +41,25 @@ breast-cancer-detection/
   - Normalized pixel values
   - 80/20 train-validation split
   - Flattened folder structure for model compatibility
+ 
+---
+
+## 📦 Dependencies
+Install the required packages using:
+
+pip install -r requirements.txt
+
+🔧 Main Libraries
+
+TensorFlow / Keras – For building and training deep learning models
+
+scikit-learn – For traditional machine learning, preprocessing, and evaluation
+
+OpenCV – For image processing and computer vision tasks
+
+matplotlib / seaborn – For data visualization and plotting
+
+numpy / pandas – For numerical operations and data manipulation
 
 ---
 
