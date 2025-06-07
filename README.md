@@ -12,6 +12,7 @@ This project was developed as the Final Year Bachelor of Engineering (B.E.) Proj
 - **Published in:** *JETIR*, Volume 10, Issue 5, May 2023  
 - **ISSN:** 2349-5162 | UGC Approved Journal No: 63975  
 - **Paper ID:** JETIR2305636
+- 🔗 [Read the Full Paper on JETIR](https://www.jetir.org/view?paper=JETIR2305636)
 
 ---
 
